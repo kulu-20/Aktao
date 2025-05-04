@@ -305,13 +305,13 @@
     cursor: pointer;
 }
 .ul1 #cai.active{
-    background: url(../images/redrectangletwo.png);
+    background: url(/Aktao/images/redrectangletwo.png);
 }
 .ul1 #ji.active{
-    background: url(../images/redrectangletwo.png);
+    background: url(/Altao/images/redrectangletwo.png);
 }
 .ul1 #tong.active{
-    background: url(../images/redrectangletwo.png);
+    background: url(/Aktao/images/redrectangletwo.png);
 }
 .ul1 .more_left.active {
     display: block;
@@ -590,7 +590,7 @@
     display: block;
     width: 50px;
     height: 50px;
-    background: url(images/decipline.png) no-repeat;
+    background: url(/Aktao/images/decipline.png) no-repeat;
 }
 .pag .bd .lis15 span{
 	color: #eae6e6;
