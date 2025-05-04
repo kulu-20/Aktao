@@ -305,13 +305,13 @@
     cursor: pointer;
 }
 .ul1 #cai.active{
-    background: url(/Aktao/images/redrectangletwo.png);
+    background: url(/Aktao/images/redrectangletwo.png) no-repeat;
 }
 .ul1 #ji.active{
-    background: url(/AKtao/images/redrectangletwo.png);
+    background: url(/AKtao/images/redrectangletwo.png) no-repeat;
 }
 .ul1 #tong.active{
-    background: url(/Aktao/images/redrectangletwo.png);
+    background: url(/Aktao/images/redrectangletwo.png) no-repeat;
 }
 .ul1 .more_left.active {
     display: block;
@@ -388,7 +388,7 @@
     width: 178px;
     height: 56px;
     text-align: center;
-    background: url(../images/redrectangletwo.png);
+    background: url(/Aktao/images/redrectangletwo.png) no-repeat;
 }
 .upper li a {
     font-family: Microsoft YaHei;
