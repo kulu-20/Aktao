@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+	display: block;
+}
+li{list-style-type: none;}
+ul,ol{list-style: none;}
+a{text-decoration: none;}
+img,input,button{border: none;vertical-align: middle;}
