@@ -20,7 +20,7 @@ ul {
     unicode-bidi: isolate;
 }
 .substance li {
-    background: url(../images/yuan.png) left center no-repeat;
+    background: url(/Aktao/images/yuan.png) left center no-repeat;
     height: 24px;
     font-family: Microsoft YaHei;
     font-weight: 400;
